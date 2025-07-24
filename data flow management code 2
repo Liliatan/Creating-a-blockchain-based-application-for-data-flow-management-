@@ -1,0 +1,18 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2025-07-24 01:38:00",
+        "data": {"data": "Genesis Block"},
+        "previous_hash": "0",
+        "nonce": 12345,
+        "hash": "0000abcd..."
+    },
+    {
+        "index": 1,
+        "timestamp": "2025-07-24 01:39:00",
+        "data": {"data_id": "S001", "value": "23.5"},
+        "previous_hash": "0000abcd...",
+        "nonce": 67890,
+        "hash": "0000efgh..."
+    }
+]
